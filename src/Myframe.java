@@ -20,8 +20,8 @@ public class Myframe extends JFrame{
         Runtime runtime = Runtime.getRuntime();
         button = new JButton();
         button2 = new JButton();
-        ImageIcon z_no = new ImageIcon("download.jpeg");
-        ImageIcon z_yes = new ImageIcon("download (1).jpeg");
+        ImageIcon z_no = new ImageIcon("C:\\Users\\user\\Desktop\\GUI\\src\\download.jpeg");
+        ImageIcon z_yes = new ImageIcon("C:\\Users\\user\\Desktop\\GUI\\src\\download (1).jpeg");
         JLabel label = new JLabel();
 
     button.setBounds(200, 100, 150, 75);;
